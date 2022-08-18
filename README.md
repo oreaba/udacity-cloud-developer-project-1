@@ -1,4 +1,4 @@
-# deploying static website - Mohammad H.Oreaba
+# Deploying Static Website on AWS - Mohammad H.Oreaba
 
 ## CloudFront endpoint:
 ##### http://dw6fiy6nftk3q.cloudfront.net/
